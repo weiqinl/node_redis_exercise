@@ -1,0 +1,27 @@
+{
+  "name": "node_redis_exercise",
+  "version": "0.0.1",
+  "description": "node redis exercise ",
+  "main": "app.js",
+  "dependencies": {
+    "redis": "^2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weiqinl/node_redis_exercise.git"
+  },
+  "keywords": [
+    "node",
+    "redis"
+  ],
+  "author": "weiqinl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weiqinl/node_redis_exercise/issues"
+  },
+  "homepage": "https://github.com/weiqinl/node_redis_exercise#readme"
+}
